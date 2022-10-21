@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-// const targets = ['._', 'IT教程吧-www.it'];
 
 
 /** 
